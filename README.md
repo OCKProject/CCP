@@ -25,6 +25,11 @@ So what's 'cultural computational publishing and the sprint or book sprint'.
  - A record of searches made using openVirus and ContentMine
  - A Wikiversity preprint and open Notebook contribution, that is open before and after the workshop and is collaboratively authored. https://en.wikiversity.org/wiki/WikiJournal_Preprints/Cultural_Computational_Publishing:_A_Sprint 
  
+## Objectives
+
+ - Ask questions of science literature using data science tools
+ - Help build ways for people to volunteer of take part in openVirus
+ 
 ### TDL
 
 Add citations
