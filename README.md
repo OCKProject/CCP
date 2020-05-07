@@ -17,10 +17,14 @@ The topic to put into the sprint is to be able to ask questions of the open scie
 So what's 'cultural computational publishing and the sprint or book sprint'. 
 
  1. The sprint or book sprint is just an arbitrary time constraint to get people together to author on a topic. But we acknowledge that there is a deep asynchronous labor and expert part of publishing which is the feminized labor (less valued) of adding in detail and getting things right. 
- 2. ‘Cultural computational publishing' that’s a mixture of Jupyter Notebook and Book, community owned publications like The Turing Way - which include live code in the publication, and 'computational publishing' which essentially means wrapping up all material in a reproducible environment see: https://research-compendium.science/
+ 2. ‘Cultural computational publishing' that’s a mixture of Jupyter Notebook and Book, community owned publications like [The Turing Way](https://the-turing-way.netlify.app/introduction/introduction.html) - which include live code in the publication, and 'computational publishing' which essentially means wrapping up all material in a reproducible environment see: https://research-compendium.science/
  
 ## What will be produced
 
  - A Jupyter Books collaboratively made publication includeing openNotebook logs 
  - A record of searches made using openVirus and ContentMine
  - A Wikiversity preprint and open Notebook contribution, that is open before and after the workshop and is collaboratively authored. https://en.wikiversity.org/wiki/WikiJournal_Preprints/Cultural_Computational_Publishing:_A_Sprint 
+ 
+### TDL
+
+Add citations
