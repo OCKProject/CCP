@@ -1,6 +1,6 @@
 # Computational Cultural Publishing: A Sprint on COVID-19
 
-## Demand 100% open research now! #opeVirus
+## Demand 100% open research now! #openVirus
 
 An online sprint / workshop to place as part of 'AMRO 20 – Of Whirlpools and Tornadoes' based in the city of Linz, Austria. 20-23 May 2020 - Art Meets Radical Openness https://www.radical-openness.org/en
 
