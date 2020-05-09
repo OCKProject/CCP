@@ -1,4 +1,4 @@
-# Computational Cultural Publishing: A Climate Emergency Sprint
+# Computational Cultural Publishing: Climate Emergency Sprint
 
 ## Demand 100% open research now! #ock
 
