@@ -6,7 +6,7 @@ An online sprint / workshop to place as part of 'AMRO 20 – Of Whirlpools and T
 
 Questions DM [@mrchristian](https://twitter.com/mrchristian99) | Chat on Matix [#consortium](https://matrix.to/#/!FiKFsTGrfPrQGYZaFZ:matrix.org?via=matrix.org)
 
-You're invited to ask questions about what the open scientific literature knows about climate change using [Open Climate Knowledge](https://github.com/OCKProject/climate) (OCKProject).
+You're invited to ask questions about what the open scientific literature knows about climate change using [Open Climate Knowledge](https://github.com/OCKProject/climate) (OCKProject) data mining software.
 
 The sprint will involve documenting the questions and responses using Jupyter Books. We use OCKProject data mining software to turn your questions into dictionaries, which can in turn then be used to search the world's open literature.
 
