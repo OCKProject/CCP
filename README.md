@@ -18,4 +18,6 @@ The sprint will involve documenting the questions and responses using Jupyter Bo
  1. ‘Cultural Computational Publishing' is a mixture of [Jupyter Book](https://jupyterbook.org/intro.html), like [The Turing Way](https://the-turing-way.netlify.app/introduction/introduction.html) which include live code and a reproducible computing environment as in the [Research Compendium](https://research-compendium.science/).
  2. The sprint is an arbitrary time constraint to get people together to author on a topic. It is important to acknowledge that many expert parts of publishing are left out of book sprints — often the feminized labor (less valued) parts of doing the behind the scenes finishing.
  
-We’ll also publish a Wikiversity [preprint](https://en.wikiversity.org/wiki/WikiJournal_Preprints/Cultural_Computational_Publishing:_A_Sprint).
+We’ll also publish a Wikiversity collaborative [preprint](https://en.wikiversity.org/wiki/WikiJournal_Preprints/Cultural_Computational_Publishing:_A_Sprint).
+
+OCKProject is an open research project hosted by [TIB](https://www.tib.eu/en) and organised as a [working group of FORCE11](https://www.force11.org/group/open-climate-knowledge). There is an open invitation to joing the working group.
