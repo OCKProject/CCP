@@ -20,4 +20,4 @@ The sprint will involve documenting the questions and responses using Jupyter Bo
  
 We’ll also publish a Wikiversity collaborative [preprint](https://en.wikiversity.org/wiki/WikiJournal_Preprints/Cultural_Computational_Publishing:_A_Sprint).
 
-OCKProject is an open research project hosted by [TIB](https://www.tib.eu/en) and organised as a [working group of FORCE11](https://www.force11.org/group/open-climate-knowledge). There is an open invitation to joing the working group.
+OCKProject is an open research project hosted by [TIB](https://www.tib.eu/en) and organised as a [working group of FORCE11](https://www.force11.org/group/open-climate-knowledge). There is an open invitation to joining the working group.
