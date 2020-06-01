@@ -145,6 +145,8 @@ General - ContentMine - getpapers and AMI
 * For all OS https://github.com/petermr/tigr2ess/blob/master/installation/INSTALLATION.md
 * Unix/Linux https://github.com/petermr/tigr2ess/blob/master/installation/unix/INSTALLATION.md tested and works SW 21.5.2020
 
+* ongoing documentation is here on openVirus as that is where active development and documentation is happening: https://github.com/petermr/openVirus/wiki
+
 How to run the software:
 
 #### get papers
