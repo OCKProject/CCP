@@ -28,6 +28,8 @@ OCKProject is an open research project hosted by [TIB](https://www.tib.eu/en) an
 
 ### Overview
 
+Outputs from 'migration' AMI searches - https://github.com/OCKProject/CCP/tree/master/xsketchbook
+
 Slides https://docs.google.com/presentation/d/1tqnTvhSn4wOOudxaJhTnrinZB1WhgGAOCIlUmjy6GZQ/edit?usp=sharing
 
 Open Climate Knowledge repo - https://github.com/OCKProject/climate 
