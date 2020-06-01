@@ -22,11 +22,11 @@ We’ll also publish a Wikiversity collaborative [preprint](https://en.wikiversi
 
 OCKProject is an open research project hosted by [TIB](https://www.tib.eu/en) and organised as a [working group of FORCE11](https://www.force11.org/group/open-climate-knowledge). There is an open invitation to joining the working group.
 
-## The Workshop results
+# The Workshop results
 
-# Computational Cultural Publishing: Climate Emergency Sprint
+## Computational Cultural Publishing: Climate Emergency Sprint
 
-## Overview
+### Overview
 
 Slides https://docs.google.com/presentation/d/1tqnTvhSn4wOOudxaJhTnrinZB1WhgGAOCIlUmjy6GZQ/edit?usp=sharing
 
@@ -125,9 +125,9 @@ In bigblueroom
 
 ### Links
 
-OpenSay
+OpenSay - https://forum.opensay.org/
 
-Open energy Modelling 
+Open energy Modelling - https://openmod-initiative.org/
 
 ### Other notes
 
